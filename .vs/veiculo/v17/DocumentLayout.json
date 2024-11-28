@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cartu\\source\\repos\\veiculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\vistoriador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:vistoriador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\vistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:vistoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\aplicacaodemultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:aplicacaodemultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:multa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|c:\\users\\cartu\\source\\repos\\veiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301394B4-4615-4DAA-B48C-E33D91E706FC}|veiculo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vistoriador.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Vistoriador.cs",
+              "RelativeDocumentMoniker": "Vistoriador.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Vistoriador.cs",
+              "RelativeToolTip": "Vistoriador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:21:07.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vistoria.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Vistoria.cs",
+              "RelativeDocumentMoniker": "Vistoria.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Vistoria.cs",
+              "RelativeToolTip": "Vistoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:16:18.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "PessoaFisica.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\PessoaFisica.cs",
+              "RelativeToolTip": "PessoaFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:56:13.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Modelo.cs",
+              "RelativeDocumentMoniker": "Modelo.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Modelo.cs",
+              "RelativeToolTip": "Modelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:53:41.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Cidade.cs",
+              "RelativeDocumentMoniker": "Cidade.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Cidade.cs",
+              "RelativeToolTip": "Cidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:49:39.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AplicacaoDeMultas.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\AplicacaoDeMultas.cs",
+              "RelativeDocumentMoniker": "AplicacaoDeMultas.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\AplicacaoDeMultas.cs",
+              "RelativeToolTip": "AplicacaoDeMultas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:48:25.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Multa.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Multa.cs",
+              "RelativeDocumentMoniker": "Multa.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Multa.cs",
+              "RelativeToolTip": "Multa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:45:11.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "PessoaJuridica.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\PessoaJuridica.cs",
+              "RelativeToolTip": "PessoaJuridica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:42:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cnh.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Cnh.cs",
+              "RelativeDocumentMoniker": "Cnh.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Cnh.cs",
+              "RelativeToolTip": "Cnh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:40:21.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Estado.cs",
+              "RelativeDocumentMoniker": "Estado.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Estado.cs",
+              "RelativeToolTip": "Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:38:37.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Marca.cs",
+              "RelativeDocumentMoniker": "Marca.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Marca.cs",
+              "RelativeToolTip": "Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:36:48.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Endereco.cs",
+              "RelativeDocumentMoniker": "Endereco.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Endereco.cs",
+              "RelativeToolTip": "Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:35:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Propietario.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Propietario.cs",
+              "RelativeDocumentMoniker": "Propietario.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Propietario.cs",
+              "RelativeToolTip": "Propietario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:32:27.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Veiculo.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Veiculo.cs",
+              "RelativeToolTip": "Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:38:57.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\veiculo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\veiculo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:38:03.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
